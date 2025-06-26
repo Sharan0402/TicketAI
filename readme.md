@@ -1,6 +1,6 @@
-# AI-Ticket-Assistant
+# TicketAssist
 
-Welcome to the AI-Powered Ticket Management System!
+Welcome to TicketAssist!
 This project is a web application that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.
 
 # AI-Powered Ticket Management System
